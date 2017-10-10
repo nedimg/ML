@@ -1,0 +1,10 @@
+{
+  "name": "ML",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "nedimg <nedim.g@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "papaparse": "^4.3.6"
+  }
+}
